@@ -1,7 +1,7 @@
 # pylint: disable=import-error
 
 bl_info = {
-    "name" : "Unity Easy Export",
+    "name" : "Blender2Unity Easy Export",
     "description" : "",
     "author" : "Alexander Haas",
     "version" : (0, 0, 1),
